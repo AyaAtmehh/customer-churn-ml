@@ -91,7 +91,7 @@ The final classification threshold was set to **0.35** to improve churn detectio
 
 For the **"Yes" (Churn)** class at a threshold of `0.35`:
 
-* Precision: **0.63**
+* Precision: **0.56**
 * Recall: **0.72**
 * F1-score: **0.63**
 
